@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+.btn{
+  background-color: #0365a7;
+  color: #fff;
+}
+
+.btn:hover{
+  background-color: rgb(128, 211, 253);;
+}
+
+.container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 30px;
+}
+
+.MuiCard-root{
+  margin-bottom: 10px;
+}
